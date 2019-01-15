@@ -1,0 +1,1 @@
+docker build --tag=awsiamauth ./Dockerfile_aws_iam_auth

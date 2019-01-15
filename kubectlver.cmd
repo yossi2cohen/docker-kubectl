@@ -1,0 +1,1 @@
+docker run --rm -it -v c:\Users\yossi.cohen\Dev\docker\eks-client\docker-kubectl\share\.kube:/config/.kube kubectl version --short --client
