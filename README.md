@@ -1,3 +1,4 @@
+# [TO-DO: update the readme file to reflect the recent changes after the fork..]
 # Supported tags and respective `Dockerfile` links
 
   * [`1`, `1.6`, `1.6.4`, `latest`](https://github.com/wernight/docker-kubectl/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/wernight/kubectl.svg)](https://microbadger.com/images/wernight/kubectl "Get your own image badge on microbadger.com")
